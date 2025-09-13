@@ -17,6 +17,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+    
+<h2> Certifications </h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/a36527b5-9eb2-49da-a919-3e96b4ed2b5e)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
