@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Risk Assessment Checklist (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/carlobuensalida/vendor-risk-assessment-checklist)
+- <b>Risk Assessment Checklist </b>
+  - [Risk Assessment Checklist](https://github.com/carlobuensalida/vendor-risk-assessment-checklist)
 
 
     
