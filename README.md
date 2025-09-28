@@ -4,6 +4,7 @@
 
 - <b>Risk Assessment Checklist </b>
   - [Risk Assessment Checklist](https://github.com/carlobuensalida/vendor-risk-assessment-checklist)
+  - [Vendor Risk Assessment Matrix](https://github.com/carlobuensalida/Vendor-Risk-Assessment-Matrix)
 
 
     
