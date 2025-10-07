@@ -7,7 +7,7 @@
 - <b>Vendor Risk Assessment Matrix </b>
   - [Vendor Risk Assessment Matrix](https://github.com/carlobuensalida/Vendor-Risk-Assessment-Matrix)
 - <b>Policy Compliance Gap Analysis Sheet </b>
-  - [Policy Compliance Gap Analysis Sheet](https://github.com/carlobuensalida/Vendor-Risk-Assessment-Matrix)
+  - [Policy Compliance Gap Analysis Sheet](https://github.com/carlobuensalida/Policy-Compliance-Gap-Analysis)
 
 
     
