@@ -13,6 +13,7 @@
     
 <h2> Certifications </h2>
 
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/9fc5a845-12ec-4ad5-a855-473c265d6137)
 - [CompTIA Security+](https://www.credly.com/badges/a36527b5-9eb2-49da-a919-3e96b4ed2b5e)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/2ac9d428-241c-4fdc-9589-b4e93a81eaf4/public_url)
 - [Generative AI for Cybersecurity Professionals Specialization](https://www.credly.com/badges/897b869d-7617-4b67-bd9c-d03c4fca9fea/public_url)
